@@ -1,5 +1,4 @@
-layout: slide
-title: "Welcome to our second slide!"
+
+ "Welcome to our slide show!"
 
 
-something new
